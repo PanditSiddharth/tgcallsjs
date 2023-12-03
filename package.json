@@ -1,6 +1,6 @@
 {
     "name": "tgcallsjs",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "main": "lib/index.js",
     "scripts": {
         "test": "tsc --noEmit",
@@ -10,7 +10,7 @@
         "type": "git",
         "url": "git+https://github.com/panditsiddharth/tgcallsjs.git"
     },
-    "author": "Roj Serbest <rojserbest@icloud.com>",
+    "author": "PanditSiddharth <mynmss03@gmail.com>",
     "license": "LGPL-3.0-or-later",
     "bugs": {
         "url": "https://github.com/panditsiddharth/tgcallsjs/issues"

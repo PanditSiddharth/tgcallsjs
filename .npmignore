@@ -1,4 +1,6 @@
 src/
+docs/
+node_modules/
 tsconfig.json
 .prettierrc
 index.ts

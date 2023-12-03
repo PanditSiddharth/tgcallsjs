@@ -18,6 +18,17 @@ npm i tgcallsjs
 
 ## Example usage with audio
 
+First install ffmpeg in your system otherwise it will generate errors  
+
+## For windows:  
+download this and set its path in environment variable  
+https:telegram.me/logicbots/180  
+
+## for ubuntu:
+sudo apt install ffmpeg  
+
+like this you can install on other os  
+
 ```js
 const { TGCallsJs, gramjs } = require("tgcallsjs");
 
